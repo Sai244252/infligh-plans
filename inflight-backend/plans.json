@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "description": "1 GB data for 1 hour",
+    "price": "$10",
+    "data": 1024
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "description": "3 GB data for 3 hours",
+    "price": "$25",
+    "data": 3072
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "description": "5 GB data for 5 hours",
+    "price": "$40",
+    "data": 5120
+  }
+]
